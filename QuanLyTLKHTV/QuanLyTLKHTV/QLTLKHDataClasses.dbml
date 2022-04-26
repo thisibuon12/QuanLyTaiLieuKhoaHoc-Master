@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="QLTLKH" Class="QLTLKHDataClassesDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=savitar\sqlexpress;Initial Catalog=QLTLKH;Integrated Security=True" SettingsObjectName="QuanLyTLKHTV.Properties.Settings" SettingsPropertyName="QLTLKHConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.ChuyenNganh" Member="ChuyenNganhs">
+    <Type Name="ChuyenNganh">
+      <Column Name="MaCN" Type="System.String" DbType="Char(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenCN" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="MoTa" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Association Name="ChuyenNganh_TLKH" Member="TLKHs" ThisKey="MaCN" OtherKey="MaCN" Type="TLKH" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TacGia" Member="TacGias">
+    <Type Name="TacGia">
+      <Column Name="MaTG" Type="System.String" DbType="Char(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenTG" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="GioiTinh" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="SDT" Type="System.String" DbType="Char(11)" CanBeNull="true" />
+      <Column Name="DiaChi" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Association Name="TacGia_TLKH" Member="TLKHs" ThisKey="MaTG" OtherKey="MaTG" Type="TLKH" />
+    </Type>
+  </Table>
+  <Table Name="dbo.NXB" Member="NXBs">
+    <Type Name="NXB">
+      <Column Name="MaNXB" Type="System.String" DbType="Char(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenNXB" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="SDT" Type="System.String" DbType="Char(11)" CanBeNull="true" />
+      <Column Name="DiaChi" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Association Name="NXB_TLKH" Member="TLKHs" ThisKey="MaNXB" OtherKey="MaNXB" Type="TLKH" />
+    </Type>
+  </Table>
+  <Table Name="dbo.NhanVien" Member="NhanViens">
+    <Type Name="NhanVien">
+      <Column Name="MaNV" Type="System.String" DbType="Char(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenNV" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="TDN" Type="System.String" DbType="Char(20)" CanBeNull="true" />
+      <Column Name="MK" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="SDT" Type="System.String" DbType="Char(11)" CanBeNull="true" />
+      <Column Name="DiaChi" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="GioiTinh" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="NgaySinh" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Role" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="NhanVien_HoaDon" Member="HoaDons" ThisKey="MaNV" OtherKey="MaNV" Type="HoaDon" />
+    </Type>
+  </Table>
+  <Table Name="dbo.KhachHang" Member="KhachHangs">
+    <Type Name="KhachHang">
+      <Column Name="MaKH" Type="System.String" DbType="Char(11) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenKH" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Association Name="KhachHang_HoaDon" Member="HoaDons" ThisKey="MaKH" OtherKey="MaKH" Type="HoaDon" />
+    </Type>
+  </Table>
+  <Table Name="dbo.HoaDon" Member="HoaDons">
+    <Type Name="HoaDon">
+      <Column Name="MaHD" Type="System.String" DbType="Char(14) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="NgayLap" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="MaNV" Type="System.String" DbType="Char(10)" CanBeNull="true" />
+      <Column Name="MaKH" Type="System.String" DbType="Char(11)" CanBeNull="true" />
+      <Column Name="TongTien" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Association Name="HoaDon_CTHD" Member="CTHDs" ThisKey="MaHD" OtherKey="MaHD" Type="CTHD" />
+      <Association Name="KhachHang_HoaDon" Member="KhachHang" ThisKey="MaKH" OtherKey="MaKH" Type="KhachHang" IsForeignKey="true" DeleteRule="CASCADE" />
+      <Association Name="NhanVien_HoaDon" Member="NhanVien" ThisKey="MaNV" OtherKey="MaNV" Type="NhanVien" IsForeignKey="true" DeleteRule="CASCADE" />
+    </Type>
+  </Table>
+  <Table Name="dbo.TLKH" Member="TLKHs">
+    <Type Name="TLKH">
+      <Column Name="MaTL" Type="System.String" DbType="Char(10) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="TenTL" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="MoTa" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="MaTG" Type="System.String" DbType="Char(10)" CanBeNull="true" />
+      <Column Name="MaCN" Type="System.String" DbType="Char(10)" CanBeNull="true" />
+      <Column Name="MaNXB" Type="System.String" DbType="Char(10)" CanBeNull="true" />
+      <Column Name="SoTrang" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ThoiGianNhap" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="GiaBan" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="GiaThue" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Column Name="MaVach" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Association Name="TLKH_CTHD" Member="CTHDs" ThisKey="MaTL" OtherKey="MaTL" Type="CTHD" />
+      <Association Name="ChuyenNganh_TLKH" Member="ChuyenNganh" ThisKey="MaCN" OtherKey="MaCN" Type="ChuyenNganh" IsForeignKey="true" DeleteRule="CASCADE" />
+      <Association Name="NXB_TLKH" Member="NXB" ThisKey="MaNXB" OtherKey="MaNXB" Type="NXB" IsForeignKey="true" DeleteRule="CASCADE" />
+      <Association Name="TacGia_TLKH" Member="TacGia" ThisKey="MaTG" OtherKey="MaTG" Type="TacGia" IsForeignKey="true" DeleteRule="CASCADE" />
+    </Type>
+  </Table>
+  <Table Name="dbo.CTHD" Member="CTHDs">
+    <Type Name="CTHD">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="MaHD" Type="System.String" DbType="Char(14)" CanBeNull="true" />
+      <Column Name="MaTL" Type="System.String" DbType="Char(10)" CanBeNull="true" />
+      <Column Name="Loai" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="SL" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="ThanhTien" Type="System.Int64" DbType="BigInt" CanBeNull="true" />
+      <Association Name="HoaDon_CTHD" Member="HoaDon" ThisKey="MaHD" OtherKey="MaHD" Type="HoaDon" IsForeignKey="true" DeleteRule="CASCADE" />
+      <Association Name="TLKH_CTHD" Member="TLKH" ThisKey="MaTL" OtherKey="MaTL" Type="TLKH" IsForeignKey="true" DeleteRule="CASCADE" />
+    </Type>
+  </Table>
+</Database>

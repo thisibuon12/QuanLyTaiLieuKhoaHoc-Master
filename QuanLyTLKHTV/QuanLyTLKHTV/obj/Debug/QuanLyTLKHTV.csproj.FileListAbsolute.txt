@@ -1,0 +1,125 @@
+D:\VisualStudioProject\QuanLyTLKHTV\QuanLyTLKHTV\bin\Debug\QuanLyTLKHTV.exe.config
+D:\VisualStudioProject\QuanLyTLKHTV\QuanLyTLKHTV\bin\Debug\QuanLyTLKHTV.exe
+D:\VisualStudioProject\QuanLyTLKHTV\QuanLyTLKHTV\bin\Debug\QuanLyTLKHTV.pdb
+D:\VisualStudioProject\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.csprojResolveAssemblyReference.cache
+D:\VisualStudioProject\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.Properties.Resources.resources
+D:\VisualStudioProject\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.csproj.GenerateResource.Cache
+D:\VisualStudioProject\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.exe
+D:\VisualStudioProject\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.pdb
+D:\VisualStudioProject\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fMain.resources
+D:\VisualStudioProject\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fTacGia.resources
+D:\VisualStudioProject\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fNXB.resources
+D:\VisualStudioProject\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fChuyenNganh.resources
+D:\VisualStudioProject\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fKhachHang.resources
+D:\VisualStudioProject\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fTLKH.resources
+D:\VisualStudioProject\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fNhanVien.resources
+D:\VisualStudioProject\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fTaoHoaDon.resources
+D:\VisualStudioProject\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fXuatHoaDon.resources
+D:\VisualStudioProject\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\RdlCompile.cache
+D:\VisualStudioProject\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\RdlCompile.compiled
+D:\VisualStudioProject\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fDanhSachHoaDon.resources
+D:\VisualStudioProject\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fThongKe.resources
+D:\VisualStudioProject\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fXemCTHD.resources
+D:\VisualStudioProject\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fDangNhap.resources
+D:\VisualStudioProject\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fDoiMK.resources
+D:\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.csprojAssemblyReference.cache
+D:\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fChuyenNganh.resources
+D:\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fDangNhap.resources
+D:\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fDanhSachHoaDon.resources
+D:\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fDoiMK.resources
+D:\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fKhachHang.resources
+D:\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fMain.resources
+D:\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fNhanVien.resources
+D:\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fNXB.resources
+D:\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fTacGia.resources
+D:\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fTaoHoaDon.resources
+D:\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fThongKe.resources
+D:\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fTLKH.resources
+D:\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fXemCTHD.resources
+D:\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fXuatHoaDon.resources
+D:\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.Properties.Resources.resources
+D:\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.csproj.GenerateResource.cache
+D:\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.csproj.CoreCompileInputs.cache
+D:\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.exe
+D:\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.pdb
+D:\QuanLyTLKHTV\QuanLyTLKHTV\bin\Debug\QuanLyTLKHTV.exe.config
+D:\QuanLyTLKHTV\QuanLyTLKHTV\bin\Debug\QuanLyTLKHTV.exe
+D:\QuanLyTLKHTV\QuanLyTLKHTV\bin\Debug\QuanLyTLKHTV.pdb
+D:\QuanLyTLKHTV\QuanLyTLKHTV\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\QuanLyTLKHTV\QuanLyTLKHTV\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\QuanLyTLKHTV\QuanLyTLKHTV\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\QuanLyTLKHTV\QuanLyTLKHTV\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.csproj.CopyComplete
+D:\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\RdlCompile.cache
+D:\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\RdlCompile.compiled
+D:\QuanLyTLKHTV\QuanLyTLKHTV\bin\Debug\QuanLyTLKHTV.exe.manifest
+D:\QuanLyTLKHTV\QuanLyTLKHTV\bin\Debug\QuanLyTLKHTV.application
+D:\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.TrustInfo.xml
+D:\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.exe.manifest
+D:\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.application
+D:\App - Web\AAAAA\DoAnThucTap_LeGiangAnhKiet_DH17TIN02 (1)\DoAnThucTap_LeGiangAnhKiet_DH17TIN02\QuanLyTLKHTV\QuanLyTLKHTV\bin\Debug\QuanLyTLKHTV.exe.config
+D:\App - Web\AAAAA\DoAnThucTap_LeGiangAnhKiet_DH17TIN02 (1)\DoAnThucTap_LeGiangAnhKiet_DH17TIN02\QuanLyTLKHTV\QuanLyTLKHTV\bin\Debug\QuanLyTLKHTV.exe.manifest
+D:\App - Web\AAAAA\DoAnThucTap_LeGiangAnhKiet_DH17TIN02 (1)\DoAnThucTap_LeGiangAnhKiet_DH17TIN02\QuanLyTLKHTV\QuanLyTLKHTV\bin\Debug\QuanLyTLKHTV.application
+D:\App - Web\AAAAA\DoAnThucTap_LeGiangAnhKiet_DH17TIN02 (1)\DoAnThucTap_LeGiangAnhKiet_DH17TIN02\QuanLyTLKHTV\QuanLyTLKHTV\bin\Debug\QuanLyTLKHTV.exe
+D:\App - Web\AAAAA\DoAnThucTap_LeGiangAnhKiet_DH17TIN02 (1)\DoAnThucTap_LeGiangAnhKiet_DH17TIN02\QuanLyTLKHTV\QuanLyTLKHTV\bin\Debug\QuanLyTLKHTV.pdb
+D:\App - Web\AAAAA\DoAnThucTap_LeGiangAnhKiet_DH17TIN02 (1)\DoAnThucTap_LeGiangAnhKiet_DH17TIN02\QuanLyTLKHTV\QuanLyTLKHTV\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\App - Web\AAAAA\DoAnThucTap_LeGiangAnhKiet_DH17TIN02 (1)\DoAnThucTap_LeGiangAnhKiet_DH17TIN02\QuanLyTLKHTV\QuanLyTLKHTV\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\App - Web\AAAAA\DoAnThucTap_LeGiangAnhKiet_DH17TIN02 (1)\DoAnThucTap_LeGiangAnhKiet_DH17TIN02\QuanLyTLKHTV\QuanLyTLKHTV\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\App - Web\AAAAA\DoAnThucTap_LeGiangAnhKiet_DH17TIN02 (1)\DoAnThucTap_LeGiangAnhKiet_DH17TIN02\QuanLyTLKHTV\QuanLyTLKHTV\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\App - Web\AAAAA\DoAnThucTap_LeGiangAnhKiet_DH17TIN02 (1)\DoAnThucTap_LeGiangAnhKiet_DH17TIN02\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.csproj.AssemblyReference.cache
+D:\App - Web\AAAAA\DoAnThucTap_LeGiangAnhKiet_DH17TIN02 (1)\DoAnThucTap_LeGiangAnhKiet_DH17TIN02\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fChuyenNganh.resources
+D:\App - Web\AAAAA\DoAnThucTap_LeGiangAnhKiet_DH17TIN02 (1)\DoAnThucTap_LeGiangAnhKiet_DH17TIN02\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fDangNhap.resources
+D:\App - Web\AAAAA\DoAnThucTap_LeGiangAnhKiet_DH17TIN02 (1)\DoAnThucTap_LeGiangAnhKiet_DH17TIN02\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fDanhSachHoaDon.resources
+D:\App - Web\AAAAA\DoAnThucTap_LeGiangAnhKiet_DH17TIN02 (1)\DoAnThucTap_LeGiangAnhKiet_DH17TIN02\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fDoiMK.resources
+D:\App - Web\AAAAA\DoAnThucTap_LeGiangAnhKiet_DH17TIN02 (1)\DoAnThucTap_LeGiangAnhKiet_DH17TIN02\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fKhachHang.resources
+D:\App - Web\AAAAA\DoAnThucTap_LeGiangAnhKiet_DH17TIN02 (1)\DoAnThucTap_LeGiangAnhKiet_DH17TIN02\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fMain.resources
+D:\App - Web\AAAAA\DoAnThucTap_LeGiangAnhKiet_DH17TIN02 (1)\DoAnThucTap_LeGiangAnhKiet_DH17TIN02\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fNhanVien.resources
+D:\App - Web\AAAAA\DoAnThucTap_LeGiangAnhKiet_DH17TIN02 (1)\DoAnThucTap_LeGiangAnhKiet_DH17TIN02\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fNXB.resources
+D:\App - Web\AAAAA\DoAnThucTap_LeGiangAnhKiet_DH17TIN02 (1)\DoAnThucTap_LeGiangAnhKiet_DH17TIN02\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fTacGia.resources
+D:\App - Web\AAAAA\DoAnThucTap_LeGiangAnhKiet_DH17TIN02 (1)\DoAnThucTap_LeGiangAnhKiet_DH17TIN02\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fTaoHoaDon.resources
+D:\App - Web\AAAAA\DoAnThucTap_LeGiangAnhKiet_DH17TIN02 (1)\DoAnThucTap_LeGiangAnhKiet_DH17TIN02\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fThongKe.resources
+D:\App - Web\AAAAA\DoAnThucTap_LeGiangAnhKiet_DH17TIN02 (1)\DoAnThucTap_LeGiangAnhKiet_DH17TIN02\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fTLKH.resources
+D:\App - Web\AAAAA\DoAnThucTap_LeGiangAnhKiet_DH17TIN02 (1)\DoAnThucTap_LeGiangAnhKiet_DH17TIN02\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fXemCTHD.resources
+D:\App - Web\AAAAA\DoAnThucTap_LeGiangAnhKiet_DH17TIN02 (1)\DoAnThucTap_LeGiangAnhKiet_DH17TIN02\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fXuatHoaDon.resources
+D:\App - Web\AAAAA\DoAnThucTap_LeGiangAnhKiet_DH17TIN02 (1)\DoAnThucTap_LeGiangAnhKiet_DH17TIN02\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.Properties.Resources.resources
+D:\App - Web\AAAAA\DoAnThucTap_LeGiangAnhKiet_DH17TIN02 (1)\DoAnThucTap_LeGiangAnhKiet_DH17TIN02\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.csproj.GenerateResource.cache
+D:\App - Web\AAAAA\DoAnThucTap_LeGiangAnhKiet_DH17TIN02 (1)\DoAnThucTap_LeGiangAnhKiet_DH17TIN02\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.csproj.CoreCompileInputs.cache
+D:\App - Web\AAAAA\DoAnThucTap_LeGiangAnhKiet_DH17TIN02 (1)\DoAnThucTap_LeGiangAnhKiet_DH17TIN02\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.TrustInfo.xml
+D:\App - Web\AAAAA\DoAnThucTap_LeGiangAnhKiet_DH17TIN02 (1)\DoAnThucTap_LeGiangAnhKiet_DH17TIN02\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.exe.manifest
+D:\App - Web\AAAAA\DoAnThucTap_LeGiangAnhKiet_DH17TIN02 (1)\DoAnThucTap_LeGiangAnhKiet_DH17TIN02\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.application
+D:\App - Web\AAAAA\DoAnThucTap_LeGiangAnhKiet_DH17TIN02 (1)\DoAnThucTap_LeGiangAnhKiet_DH17TIN02\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.csproj.CopyComplete
+D:\App - Web\AAAAA\DoAnThucTap_LeGiangAnhKiet_DH17TIN02 (1)\DoAnThucTap_LeGiangAnhKiet_DH17TIN02\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.exe
+D:\App - Web\AAAAA\DoAnThucTap_LeGiangAnhKiet_DH17TIN02 (1)\DoAnThucTap_LeGiangAnhKiet_DH17TIN02\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.pdb
+D:\App - Web\AAAAA\QuanLyTaiLieuKhoaHoc\QuanLyTaiLieuKhoaHoc\QuanLyTLKHTV\QuanLyTLKHTV\bin\Debug\QuanLyTLKHTV.exe.config
+D:\App - Web\AAAAA\QuanLyTaiLieuKhoaHoc\QuanLyTaiLieuKhoaHoc\QuanLyTLKHTV\QuanLyTLKHTV\bin\Debug\QuanLyTLKHTV.exe.manifest
+D:\App - Web\AAAAA\QuanLyTaiLieuKhoaHoc\QuanLyTaiLieuKhoaHoc\QuanLyTLKHTV\QuanLyTLKHTV\bin\Debug\QuanLyTLKHTV.application
+D:\App - Web\AAAAA\QuanLyTaiLieuKhoaHoc\QuanLyTaiLieuKhoaHoc\QuanLyTLKHTV\QuanLyTLKHTV\bin\Debug\QuanLyTLKHTV.exe
+D:\App - Web\AAAAA\QuanLyTaiLieuKhoaHoc\QuanLyTaiLieuKhoaHoc\QuanLyTLKHTV\QuanLyTLKHTV\bin\Debug\QuanLyTLKHTV.pdb
+D:\App - Web\AAAAA\QuanLyTaiLieuKhoaHoc\QuanLyTaiLieuKhoaHoc\QuanLyTLKHTV\QuanLyTLKHTV\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\App - Web\AAAAA\QuanLyTaiLieuKhoaHoc\QuanLyTaiLieuKhoaHoc\QuanLyTLKHTV\QuanLyTLKHTV\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\App - Web\AAAAA\QuanLyTaiLieuKhoaHoc\QuanLyTaiLieuKhoaHoc\QuanLyTLKHTV\QuanLyTLKHTV\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\App - Web\AAAAA\QuanLyTaiLieuKhoaHoc\QuanLyTaiLieuKhoaHoc\QuanLyTLKHTV\QuanLyTLKHTV\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\App - Web\AAAAA\QuanLyTaiLieuKhoaHoc\QuanLyTaiLieuKhoaHoc\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.csproj.AssemblyReference.cache
+D:\App - Web\AAAAA\QuanLyTaiLieuKhoaHoc\QuanLyTaiLieuKhoaHoc\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fChuyenNganh.resources
+D:\App - Web\AAAAA\QuanLyTaiLieuKhoaHoc\QuanLyTaiLieuKhoaHoc\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fDangNhap.resources
+D:\App - Web\AAAAA\QuanLyTaiLieuKhoaHoc\QuanLyTaiLieuKhoaHoc\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fDanhSachHoaDon.resources
+D:\App - Web\AAAAA\QuanLyTaiLieuKhoaHoc\QuanLyTaiLieuKhoaHoc\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fDoiMK.resources
+D:\App - Web\AAAAA\QuanLyTaiLieuKhoaHoc\QuanLyTaiLieuKhoaHoc\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fKhachHang.resources
+D:\App - Web\AAAAA\QuanLyTaiLieuKhoaHoc\QuanLyTaiLieuKhoaHoc\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fMain.resources
+D:\App - Web\AAAAA\QuanLyTaiLieuKhoaHoc\QuanLyTaiLieuKhoaHoc\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fNhanVien.resources
+D:\App - Web\AAAAA\QuanLyTaiLieuKhoaHoc\QuanLyTaiLieuKhoaHoc\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fNXB.resources
+D:\App - Web\AAAAA\QuanLyTaiLieuKhoaHoc\QuanLyTaiLieuKhoaHoc\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fTacGia.resources
+D:\App - Web\AAAAA\QuanLyTaiLieuKhoaHoc\QuanLyTaiLieuKhoaHoc\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fTaoHoaDon.resources
+D:\App - Web\AAAAA\QuanLyTaiLieuKhoaHoc\QuanLyTaiLieuKhoaHoc\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fThongKe.resources
+D:\App - Web\AAAAA\QuanLyTaiLieuKhoaHoc\QuanLyTaiLieuKhoaHoc\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fTLKH.resources
+D:\App - Web\AAAAA\QuanLyTaiLieuKhoaHoc\QuanLyTaiLieuKhoaHoc\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fXemCTHD.resources
+D:\App - Web\AAAAA\QuanLyTaiLieuKhoaHoc\QuanLyTaiLieuKhoaHoc\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.fXuatHoaDon.resources
+D:\App - Web\AAAAA\QuanLyTaiLieuKhoaHoc\QuanLyTaiLieuKhoaHoc\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.Properties.Resources.resources
+D:\App - Web\AAAAA\QuanLyTaiLieuKhoaHoc\QuanLyTaiLieuKhoaHoc\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.csproj.GenerateResource.cache
+D:\App - Web\AAAAA\QuanLyTaiLieuKhoaHoc\QuanLyTaiLieuKhoaHoc\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.csproj.CoreCompileInputs.cache
+D:\App - Web\AAAAA\QuanLyTaiLieuKhoaHoc\QuanLyTaiLieuKhoaHoc\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.TrustInfo.xml
+D:\App - Web\AAAAA\QuanLyTaiLieuKhoaHoc\QuanLyTaiLieuKhoaHoc\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.exe.manifest
+D:\App - Web\AAAAA\QuanLyTaiLieuKhoaHoc\QuanLyTaiLieuKhoaHoc\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.application
+D:\App - Web\AAAAA\QuanLyTaiLieuKhoaHoc\QuanLyTaiLieuKhoaHoc\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.csproj.CopyComplete
+D:\App - Web\AAAAA\QuanLyTaiLieuKhoaHoc\QuanLyTaiLieuKhoaHoc\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.exe
+D:\App - Web\AAAAA\QuanLyTaiLieuKhoaHoc\QuanLyTaiLieuKhoaHoc\QuanLyTLKHTV\QuanLyTLKHTV\obj\Debug\QuanLyTLKHTV.pdb
